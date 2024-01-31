@@ -2,7 +2,7 @@
   "name": "c-hdg",
   "version": "0.0.0",
   "engines": {
-    "node": "18.10."
+    "node": "18.10.0  "
   },
   "scripts": {
     "ng": "ng",
